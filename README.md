@@ -33,25 +33,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 1. **My Portfolio Website**
-- Full-stack responsive website to showcase my projects  
-- Tech: PHP, Laravel, JavaScript, HTML/CSS, MySQL  
-- [Live Demo](#) | [Repository](#)
-
-### 2. **Task Management App**
-- Web app to manage personal and team tasks  
-- Features: CRUD operations, authentication, responsive UI  
-- Tech: Laravel, MySQL, JavaScript  
-- [Repository](#)
-
-### 3. **Blog CMS**
-- Content management system for blogs with admin panel  
-- Tech: PHP, MySQL, Bootstrap  
-- [Repository](#)
-
----
 
 ## 📫 Connect with Me
 
