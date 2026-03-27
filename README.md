@@ -1,11 +1,11 @@
-# Hi, I'm Abdelilah 👋
+# Hi, I'm Abdelilah 
 
 ![Coding GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
-🎓 Student at **YouCode** | Background in **Physics**  
-💻 Full-Stack Web Developer | PHP, Laravel, JavaScript, MySQL  
-🌐 Passionate about building scalable and user-friendly web applications  
-🚀 Always learning and exploring new technologies  
+ Student at **YouCode** | Background in **Physics**  
+ Full-Stack Web Developer | PHP, Laravel, JavaScript, MySQL  
+ Passionate about building scalable and user-friendly web applications  
+ Always learning and exploring new technologies  
 
 ---
 
