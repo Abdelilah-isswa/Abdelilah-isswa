@@ -24,7 +24,7 @@
 
 ## 🌟 About Me
 
-![Developer GIF](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
+
 
 - I turn ideas into **interactive web apps** and **real-world solutions**  
 - Love solving complex **logic problems** and **optimizing code**  
